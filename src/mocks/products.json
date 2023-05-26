@@ -1,0 +1,45 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "title": "Vinilo Noche Estrellada",
+         "description": "Vinilo, de color topacio para una noche estrellada",
+         "price": 50,
+         "category": "modern",
+         "thumbnail": "https://i.ytimg.com/vi/G1DrdbKqaQc/maxresdefault.jpg",
+         "images": [
+         ]
+      },
+      {
+         "id": 2,
+         "title": "Vinilo Arcoiris",
+         "description": "",
+         "price": 1000,
+         "category": "classic",
+         "thumbnail": "https://cdn.gencraft.com/prod/user/bfbcbca5-ad97-4e47-8af5-fcefdc0090c5/24707759-5b83-4e73-9c18-7c92f7e67e4b/images/image0_1024_1024_watermark.jpg?Expires=1685215361&Signature=iL4S4U10V3YiXQz4Kxe8xX6TJc5-pf8hp4CAqUvWnFsXSHL-sh5DOEnWsQ2MStsv~0r2IRN6KHGsNrOTe8~x2z9yr~0~vAS1K2OCa8UViM6B6pVeGk2JEM-OzgKI8Xsb4S5ReYgE48AQx3-GuE9-mlBmfBpsWGS3qPFtEOyMB5WqU7uaotAuvM6HDY3aU1GtjtDmkmhgdFguqTk-2N9mcpG2w3opHydqtUeWkEyzox90Ehy-TRwUUrYeN-wI7WNbxTcL2R4QeBf-jw5zYYo6k1iX~Yrbl-xhDWRRIFUFO~DWIMlS7raEkwCzl84P56iJZNkzWW8HVwzSWoy8dIymgg__&Key-Pair-Id=K3RDDB1TZ8BHT8",
+         "images": [
+         ]
+      },
+      {
+         "id": 3,
+         "title": "Vinilo Abstracto",
+         "price": 800,
+         "category": "classic",
+         "thumbnail": "https://cdn.gencraft.com/prod/user/bfbcbca5-ad97-4e47-8af5-fcefdc0090c5/f63ab389-7445-414c-8873-76cefd1a7d93/images/image0_1024_1024_watermark.jpg?Expires=1685215598&Signature=I~pH-IszjbGDOUh8y3g1IYTM4QJMqyizCU9nkDvFmRNpz1aFoBOBeIX~DJ1fYuQrs-EUdYrvV8bOmqZ~kxTEwFE~ixbODYfhDIwM~l6AhoyT0o4dlNmnYDARNtrAaHCw2h4iJgwXK4d4MNKPhFAfKQxot3rh6UpPiNTXzchJ79Sh4aMK9cFLpUQqek-9FZDkU449H5QoqURAPhFgX7OlInTH9zQX3HdylJAgtlTFxr2G1gkuofgR~Of3Z96mepzmJA3f6egm7-OKcCzkjDV7AF1P~wZr3bEFIan8n4IQI7CJPtyn9I3Aenf6RKwRf5J3sztid62fZ8j~K2sHufz2jw__&Key-Pair-Id=K3RDDB1TZ8BHT8",
+         "images": [
+         ]
+      },
+      {
+         "id": 4,
+         "title": "Vinilo etc",
+         "price": 500,
+         "category": "classic",
+         "thumbnail": "https://cdn.gencraft.com/prod/user/bfbcbca5-ad97-4e47-8af5-fcefdc0090c5/4449ace1-58f9-4df5-b4ac-fb62cb2b8d45/images/image1_1024_1024_watermark.jpg?Expires=1685230208&Signature=F1uco8pPOvaIhOS2mbj4e8MXslpTl5gY-Sef3vlAYztPv-tcK10f4-zTXzaF51A9in2OlTUZ~vqcxS42wYyQr~0c3yzKPOcQepYqRGmzr2ZV3UDLqFWLyeo~9inEmOrFj1Ai2YN4Jqg7kAduY1Gxqzc8xqc3b2CWO4TendaLq60KDRVBNLwu~bVeceNmKZQw5IL67WKRXKTfCgZGsCisT2-hbRYqbTfT3GUPlDaYrX~n1ySY9Di20~KZln~NXqgc8TBzASjRkkIwjQQeUFv48c4rx3thqqm6P9aBBNlJ9f~0mnZIXS4Zcu1naeauQ3RApoeuYl8llcZ5ImMyeHAl2A__&Key-Pair-Id=K3RDDB1TZ8BHT8",
+         "images": [
+         ]
+      }
+   ],
+   "total": 100,
+   "skip": 0,
+   "limit": 30
+}
