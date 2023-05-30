@@ -1,7 +1,9 @@
+/* eslint-disable react/prop-types */
 import './Products.css'
 import { AddToCartIcon, RemoveFromCartIcon } from './Icons.jsx'
 import { useCart } from '../hooks/useCart.js'
 
+// eslint-disable-next-line react/prop-types
 export function Products ({ products }) {
   const { addToCart, removeFromCart, cart } = useCart()
 

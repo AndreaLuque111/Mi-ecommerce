@@ -3,7 +3,7 @@ import { Filters } from './Filters.jsx'
 export function Header () {
   return (
     <header>
-      <h1>VINILOS MAKER💽</h1>
+      <h1>VINIMAKER💽</h1>
       <Filters />
     </header>
   )

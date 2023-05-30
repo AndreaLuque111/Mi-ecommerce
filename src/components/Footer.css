@@ -3,7 +3,7 @@
   left: 16px;
   bottom: 16px;
   text-align: left;
-  background: rgba(102, 200, 238, 0.7);
+  background: #bccacb;
   padding: 8px 24px;
   border-radius: 32px;
   opacity: .95;
@@ -12,7 +12,7 @@
 
 .footer span {
   font-size: 14px;
-  color: rgb(72, 0, 255);
+  color: rgb(0, 0, 0);
   opacity: .8;
 }
 
